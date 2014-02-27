@@ -1,3 +1,18 @@
+
+
+
+body{
+  font-family: 'Roboto Slab', serif;
+}
+ul {list-style: none;
+      font-size: 30px;
+  }
+ h1 {font-size: 60px;
+  }
+
+
+
+
 .hoverbox{
 	cursor:default;
 	list-style: none;
